@@ -9,7 +9,7 @@ Implementasi protokol HTTP dan MQTT dalam transmisi data pada Platform IoT Node-
 1.	Memahami cara kerja protocol HTTP dan MQTT untuk tranmisi data (akuisisi dan kendali) pada Platfom IoT Node-Red.
 2.	Merancang dan melakukan protocol HTTP dan MQTT untuk mmonitoring dan kendali melalui Platfom IoT Node-Red.
 # ALAT DAN BAHAN	:
-## Alat dan bahan yang digunakan dalam jobsheet ini, antara lain:
+**Alat dan bahan** yang digunakan dalam jobsheet ini, antara lain:
 1.	ESP32 
 2.	Server Node-Red
 3.	Breadboard
