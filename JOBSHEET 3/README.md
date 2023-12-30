@@ -1,8 +1,7 @@
 # JOBSHEET 3
 # TOPOLOGI JARINGAN LOKAL DAN WIFI
 # ABSTRAK	:
-
-Pemahaman dan aplikasi protokol topologi jaringan lokal berbasis Wi-Fi, untuk merancang topologi jaringan Wi-Fi guna mendukung Wireless Sensor Network (WSN) dan Internet of Things (IoT) dengan tepat. Wi-Fi, selain sebagai penghubung perangkat ke internet, juga menjadi landasan utama dalam menciptakan konektivitas nirkabel untuk aplikasi canggih ini. Dengan penjelasan singkat namun padat, laporan ini menyoroti jangkauan Wi-Fi dan peran kunci wireless adaptor serta router dalam proses komunikasi dua arah. Topologi jaringan sesuai kondisi lapangan untuk implementasi WSN dan IoT. 
+<p align="justify">Pemahaman dan aplikasi protokol topologi jaringan lokal berbasis Wi-Fi, untuk merancang topologi jaringan Wi-Fi guna mendukung Wireless Sensor Network (WSN) dan Internet of Things (IoT) dengan tepat. Wi-Fi, selain sebagai penghubung perangkat ke internet, juga menjadi landasan utama dalam menciptakan konektivitas nirkabel untuk aplikasi canggih ini. Dengan penjelasan singkat namun padat, laporan ini menyoroti jangkauan Wi-Fi dan peran kunci wireless adaptor serta router dalam proses komunikasi dua arah. Topologi jaringan sesuai kondisi lapangan untuk implementasi WSN dan IoT. 
 
 **TUJUAN PADA JOBSHEET INI,** anatar lain	:
 1.	Memahami cara  kerja protocol topologi jaringan local yang memanfaatkan Wi-Fi untuk berkomunikasi.
