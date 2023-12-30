@@ -1,10 +1,10 @@
 # JOBSHEET 7
 # TRANSMISI DATA MENGGUNAKAN HYPER TEXT TRANSFER PROTOCOL (HTTP)
 # ABSTRAK	:
-
-Dalam eksplorasi materi "Transmisi Data Menggunakan Hyper Text Transfer Protocol (HTTP)", ditekankan pada pemahaman mendalam tentang konsep dasar dan implementasi praktis HTTP sebagai protokol komunikasi umum dalam transfer data, terutama di konteks Internet of Things (IoT). Dokumentasi ini merinci mekanisme kerja HTTP, mengenalkan fitur-fitur kunci, dan mengeksplorasi penerapannya dalam pengiriman dan penerimaan data antar perangkat. Eksplorasi ini bertujuan memberikan pemahaman menyeluruh tentang penggunaan protokol HTTP dalam transmisi data untuk mendukung perkembangan proyek IoT.
+<p align="justify">Dalam eksplorasi materi "Transmisi Data Menggunakan Hyper Text Transfer Protocol (HTTP)", ditekankan pada pemahaman mendalam tentang konsep dasar dan implementasi praktis HTTP sebagai protokol komunikasi umum dalam transfer data, terutama di konteks Internet of Things (IoT). Dokumentasi ini merinci mekanisme kerja HTTP, mengenalkan fitur-fitur kunci, dan mengeksplorasi penerapannya dalam pengiriman dan penerimaan data antar perangkat. Eksplorasi ini bertujuan memberikan pemahaman menyeluruh tentang penggunaan protokol HTTP dalam transmisi data untuk mendukung perkembangan proyek IoT.
 
 **TUJUAN PADA JOBSHEET INI,** antara lain	:
+
 3.	Memahami alur kerja, kegunaan dan manfaat protocol HTTP.
 4.	Memahami dan mengimplementasikan protocol HTTP pada sistem IoT untuk monitoring dan kendali.
 # ALAT DAN BAHAN	:
