@@ -1,8 +1,7 @@
 # JOBSHEET 5
 # PEMROGRAMAN DASAR NODE-RED
 # ABSTRAK	:
-
-Dalam pembahasan tentang pemrograman dasar dengan Node-RED, terungkap platform visual programming yang mempermudah pengembangan alur kerja Internet of Things (IoT). Fokusnya adalah pada pemahaman dasar pemrograman melalui Node-RED untuk menciptakan alur kerja yang efisien. Dalam eksplorasi ini, dipaparkan konsep-konsep pemrograman visual, implementasi logika dasar, serta penggunaan berbagai node atau blok pembangun dalam Node-RED. Dengan pendekatan yang praktis, pembaca dapat memahami langkah-langkah dasar untuk menciptakan alur kerja yang responsif dan efektif menggunakan Node-RED untuk mendukung proyek-proyek IoT.
+<p align="justify">Dalam pembahasan tentang pemrograman dasar dengan Node-RED, terungkap platform visual programming yang mempermudah pengembangan alur kerja Internet of Things (IoT). Fokusnya adalah pada pemahaman dasar pemrograman melalui Node-RED untuk menciptakan alur kerja yang efisien. Dalam eksplorasi ini, dipaparkan konsep-konsep pemrograman visual, implementasi logika dasar, serta penggunaan berbagai node atau blok pembangun dalam Node-RED. Dengan pendekatan yang praktis, pembaca dapat memahami langkah-langkah dasar untuk menciptakan alur kerja yang responsif dan efektif menggunakan Node-RED untuk mendukung proyek-proyek IoT.
 
 **TUJUAN PADA JOBSHEET INI,** antara lain	:
 1.	Memahami dasar pemrograman pada Node-Red.
