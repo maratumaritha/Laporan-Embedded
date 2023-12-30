@@ -19,46 +19,50 @@ Implementasi protokol HTTP dan MQTT dalam transmisi data pada Platform IoT Node-
 7.	Resistor 330
 8.	Resistor 1K
 
-### A.	Setting SSID dan Password Wi-Fi ESP32 melalui Web Server
-a.	Rangkaian
+## A.	Setting SSID dan Password Wi-Fi ESP32 melalui Web Server
+### a.	Rangkaian
 
-b.	Source Kode
-
-Berikut adalah kode program yang digunakan
-
-Kode program dapat dilihat dan dicoba …
-
-c.	Hasil 
-
-### B.	Transmisi Data Menggunakan Protokol HTTP
-a.	Rangkaian
-
-b.	Source Kode
+### b.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
 Kode program dapat dilihat dan dicoba …
 
-c.	Hasil 
+### c.	Hasil 
 
-### C.	Transmisi Data Menggunakan Protokol MQTT
-a.	Rangkaian
+## B.	Transmisi Data Menggunakan Protokol HTTP
 
-b.	Source Kode
+### a.	Rangkaian
 
-Berikut adalah kode program yang digunakan
-
-Kode program dapat dilihat dan dicoba …
-
-c.	Hasil 
-
-### D.	Akuisi Data dan Kendali Perangkat IoT Menggunakan Protokol MQTT
-a.	Rangkaian
-
-b.	Source Kode
+### b.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
 Kode program dapat dilihat dan dicoba …
 
-c.	Hasil 
+
+### c.	Hasil 
+
+## C.	Transmisi Data Menggunakan Protokol MQTT
+
+### a.	Rangkaian
+
+### b.	Source Kode
+
+Berikut adalah kode program yang digunakan
+
+Kode program dapat dilihat dan dicoba …
+
+### c.	Hasil 
+
+## D.	Akuisi Data dan Kendali Perangkat IoT Menggunakan Protokol MQTT
+
+### a.	Rangkaian
+
+### b.	Source Kode
+
+Berikut adalah kode program yang digunakan
+
+Kode program dapat dilihat dan dicoba …
+
+### c.	Hasil 
