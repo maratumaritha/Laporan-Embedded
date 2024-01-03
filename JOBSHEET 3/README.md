@@ -23,6 +23,7 @@
 
 ## A.	ESP32 Wi – Fi Modes dan Wifi - Scan
 ### a.	Rangkaian
+![A  ESP32 Wi-Fi Modes dan Wifi-Scan](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/226513b8-7fd6-4f48-8bb6-590ab0bdc92c)
 
 ### b.	Source Kode
 
