@@ -29,7 +29,7 @@
 
 Berikut adalah kode program yang digunakan
 
-Kode program dapat dilihat dan dicoba …
+Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/31ce3df50d5ba8744f0474a5d35626a7c47796da/JOBSHEET%203/A/A.ino">disini</a>
 
 
 ### c.	Hasil 
