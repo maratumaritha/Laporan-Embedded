@@ -34,7 +34,8 @@ Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/
 
 ### c.	Hasil
 
-https://github.com/maratumaritha/Laporan-Embedded/issues/1#issue-2066625903
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/280e1658-debb-4d90-940c-c69613b9ac00
+
 
 ## B.	Menghubungkan ESP32 dengan Jaringan Wi - Fi
 
