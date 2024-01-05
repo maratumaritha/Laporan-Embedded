@@ -39,52 +39,56 @@ https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/280e1658-debb
 
 ## B.	Menghubungkan ESP32 dengan Jaringan Wi - Fi
 
-### a.	Rangkaian
-
-### b.	Source Kode
+### a.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
-Kode program dapat dilihat dan dicoba …
+Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/B/B.ino">disini</a>
 
 
-### c.	Hasil 
+### b.	Hasil 
+
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/85bf2924-2f9c-419a-ba96-d6a40c454b8a
+
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/121daa7f-bacc-4f53-a05f-e72586cf757c
+
 
 ## C.	Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi- Fi
 
-### a.	Rangkaian
-
-### b.	Source Kode
+### a.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
-Kode program dapat dilihat dan dicoba …
+Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/C/C.ino">disini</a> atau <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/C2/C2.ino">disini</a>
 
+### b.	Hasil 
 
-### c.	Hasil 
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/fb76dfea-970f-456f-adbb-1759a0a76f93
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/9d42616b-b487-4315-bdbe-2c457029e940
+
 
 ## D.	Mengganti Hostname ESP32
 
-### a.	Rangkaian
-
-### b.	Source Kode
+### a.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
-Kode program dapat dilihat dan dicoba …
+Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/D/D.ino">disini</a>
 
+### b.	Hasil 
 
-### c.	Hasil 
+https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/e438cb71-8eb8-446d-82d7-fb3a1d580f38
+
 
 ## E.	Mengirim Data Sensor ke Database
 
 ### a.	Rangkaian
+![E  Mengirim Data Sensor ke Database](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/473baf9b-64ff-4bbe-a6ff-511cbe4b1716)
 
 ### b.	Source Kode
 
 Berikut adalah kode program yang digunakan
 
-Kode program dapat dilihat dan dicoba …
-
+Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/E/E.ino">disini</a>
 
 ### c.	Hasil 
