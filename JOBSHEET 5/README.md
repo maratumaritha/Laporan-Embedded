@@ -53,11 +53,21 @@
 ![gambar flow fungsi output berganda](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/48c7a20c-9637-4155-aeb5-091515158615)
 
 5.	Konfigurasi node input2. Isikan payload dengan “Expeliarmus”, dan topik berupa “test2”
-6.	Konfigurasi node fungsi seperti gambar dibawah ini
-7.	Deploy program 
+<img width="419" alt="B 1 input 2" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/2f6db9f9-1e14-4028-bf34-3a17dfc75984">
+
+7.	Konfigurasi node fungsi seperti gambar dibawah ini
+<img width="486" alt="B 2 konfigurasi" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/f95c2531-ac52-494f-a55e-91e3275bab48">
+
+
+<img width="479" alt="B 3 konfigurasi fungsi" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/7f684cf6-607f-4357-ad22-a061f659749b">
+
+9.	Deploy program 
 
 ### b.	Hasil dan Pembahasan
 <img width="549" alt="B 1 Flow fungsi output tunggal" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/b463565d-d6ea-4805-a9c4-9b051be263f0">
+
+<img width="527" alt="B 2 Menggunakan Function Node" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/ccd0c73a-cbe4-44c3-bc7d-8a5992863439">
+
 
 ## C.	Menggunakan Switch Node
 ### a.	Langkah Kerja
