@@ -41,18 +41,20 @@
 3.	Konfigurasi node input1. Isikan payload dengan “Hello World”, dan topik berupa “test1”
 <img width="416" alt="B 1 Flow fungsi output tunggal (input1)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/54ee83d2-6977-40d0-88a5-16c4ac17423a">
 
+
 <img width="379" alt="B 1 Flow fungsi output tunggal (fungsi2)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/bdbf7d4c-3b25-4123-9331-b9b88452460b">
+
 
 <img width="485" alt="B 1 Flow fungsi output tunggal (fungsi1)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/9ac072a7-0048-46b8-90f5-40fdde2971ec">
 
 
-5.	Deploy program 
-6.	Buatlah flow fungsi output berganda yang berfungsi memisahkan pesan seperti gambar dibawah ini
+3.	Deploy program 
+4.	Buatlah flow fungsi output berganda yang berfungsi memisahkan pesan seperti gambar dibawah ini
 ![gambar flow fungsi output berganda](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/48c7a20c-9637-4155-aeb5-091515158615)
 
-8.	Konfigurasi node input2. Isikan payload dengan “Expeliarmus”, dan topik berupa “test2”
-9.	Konfigurasi node fungsi seperti gambar dibawah ini
-10.	Deploy program 
+5.	Konfigurasi node input2. Isikan payload dengan “Expeliarmus”, dan topik berupa “test2”
+6.	Konfigurasi node fungsi seperti gambar dibawah ini
+7.	Deploy program 
 
 ### b.	Hasil dan Pembahasan
 <img width="549" alt="B 1 Flow fungsi output tunggal" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/b463565d-d6ea-4805-a9c4-9b051be263f0">
