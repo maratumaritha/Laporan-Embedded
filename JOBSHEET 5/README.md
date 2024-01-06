@@ -31,6 +31,7 @@
 
 8.	Klik tombol “Deploy” yang terletak pada pojok kanan atas UI untuk menjalankan program
 ### b.	Hasil dan Pembahasan
+<img width="437" alt="A  Basic Flow" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/cbd73bac-46e2-4150-bb01-3a63ba75fc2d">
 
 ## B.	Menggunakan Function Node
 ### a.	Langkah Kerja
@@ -54,20 +55,28 @@
 10.	Deploy program 
 
 ### b.	Hasil dan Pembahasan
+<img width="549" alt="B 1 Flow fungsi output tunggal" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/b463565d-d6ea-4805-a9c4-9b051be263f0">
 
 ## C.	Menggunakan Switch Node
 ### a.	Langkah Kerja
 1.	Buatlah flow seperti pada gambar dibawah ini
-2.	Konfigurasi Input/Inject Node. Isikan Payload pada Inject Node 1 dengan angka 28. Kemudian pada Inject Node 2, isikan Payload dengan angka 27
-3.	Konfigurasi Switch Node seperti gambar dibawah ini
-4.	Deploy flow
+![gambar flow switch node](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/1e341406-2bf7-4486-bbbf-82a2e0599334)
+
+3.	Konfigurasi Input/Inject Node. Isikan Payload pada Inject Node 1 dengan angka 28. Kemudian pada Inject Node 2, isikan Payload dengan angka 27
+4.	Konfigurasi Switch Node seperti gambar dibawah ini
+![gambar koonfigurasi switch node](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/d997b84f-44c1-413e-a918-3f81b945928b)
+
+6.	Deploy flow
 
 ### b.	Hasil dan Pembahasan
 
 ## D.	Menggunakan JSON Parsing
 ### a.	Langkah Kerja
 1.	Buatlah flow seperti gambar dibawah ini
-2.	Konfigurasikan Inject Node, JSON Parser Node, dan Function Node seperti gambar dibawah ini
-3.	Deploy flow
+![gambar flow json parser](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/757c0797-d0c2-49ed-ad23-40797cb28a34)
+
+3.	Konfigurasikan Inject Node, JSON Parser Node, dan Function Node seperti gambar dibawah ini
+
+5.	Deploy flow
 
 ### b.	Hasil dan Pembahasan
