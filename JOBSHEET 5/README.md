@@ -75,12 +75,16 @@
 ![gambar flow switch node](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/1e341406-2bf7-4486-bbbf-82a2e0599334)
 
 3.	Konfigurasi Input/Inject Node. Isikan Payload pada Inject Node 1 dengan angka 28. Kemudian pada Inject Node 2, isikan Payload dengan angka 27
-4.	Konfigurasi Switch Node seperti gambar dibawah ini
+
+<img width="416" alt="c 1 konfigurasi input" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/0d537ac2-cf2b-4313-be5b-d2a859308cd0">
+
+5.	Konfigurasi Switch Node seperti gambar dibawah ini
 ![gambar koonfigurasi switch node](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/d997b84f-44c1-413e-a918-3f81b945928b)
 
 6.	Deploy flow
 
 ### b.	Hasil dan Pembahasan
+<img width="548" alt="C Menggunakan Switch Node" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/82fd6926-7155-4bc7-8829-23a488883db9">
 
 ## D.	Menggunakan JSON Parsing
 ### a.	Langkah Kerja
