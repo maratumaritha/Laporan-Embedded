@@ -21,20 +21,37 @@
 ### a.	Langkah Kerja
 1.	Pastikan perangkat komputer terpasang Node-red
 2.	Buatlah Basic Flow seperti pada gambar berikut
-3.	Double klik pada node input, kemudian konfigurasi seperti pada gambar di bawah
-4.	Lakukan hal yang  sama seperti pada langkah 3 unutk node output / debug node seperti gambar berikut
-5.	Klik tombol “Deploy” yang terletak pada pojok kanan atas UI untuk menjalankan program
+![gambar basic flow programming](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/b0957908-60c1-4673-932a-9e5735cf72b3)
+
+4.	Double klik pada node input, kemudian konfigurasi seperti pada gambar di bawah
+![gambar konfigurasi inject](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/72b02e15-de78-49ec-8e0d-e827962ccf37)
+
+6.	Lakukan hal yang  sama seperti pada langkah 3 unutk node output / debug node seperti gambar berikut
+![gambar konfigurasi debug](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/fc6945af-ef71-429e-930d-1eb54e3edc20)
+
+8.	Klik tombol “Deploy” yang terletak pada pojok kanan atas UI untuk menjalankan program
 ### b.	Hasil dan Pembahasan
 
 ## B.	Menggunakan Function Node
 ### a.	Langkah Kerja
 1.	Buatlah flow fungsi output Tunggal seperti gambar berikut ini
-2.	Konfigurasi node input1. Isikan payload dengan “Hello World”, dan topik berupa “test1”
-3.	Deploy program 
-4.	Buatlah flow fungsi output berganda yang berfungsi memisahkan pesan seperti gambar dibawah ini
-5.	Konfigurasi node input2. Isikan payload dengan “Expeliarmus”, dan topik berupa “test2”
-6.	Konfigurasi node fungsi seperti gambar dibawah ini
-7.	Deploy program 
+![flow fungsi output tunggal](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/9611851b-2500-41ca-ac21-41e38328e36d)
+
+3.	Konfigurasi node input1. Isikan payload dengan “Hello World”, dan topik berupa “test1”
+<img width="416" alt="B 1 Flow fungsi output tunggal (input1)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/54ee83d2-6977-40d0-88a5-16c4ac17423a">
+
+<img width="379" alt="B 1 Flow fungsi output tunggal (fungsi2)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/bdbf7d4c-3b25-4123-9331-b9b88452460b">
+
+<img width="485" alt="B 1 Flow fungsi output tunggal (fungsi1)" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/9ac072a7-0048-46b8-90f5-40fdde2971ec">
+
+
+5.	Deploy program 
+6.	Buatlah flow fungsi output berganda yang berfungsi memisahkan pesan seperti gambar dibawah ini
+![gambar flow fungsi output berganda](https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/48c7a20c-9637-4155-aeb5-091515158615)
+
+8.	Konfigurasi node input2. Isikan payload dengan “Expeliarmus”, dan topik berupa “test2”
+9.	Konfigurasi node fungsi seperti gambar dibawah ini
+10.	Deploy program 
 
 ### b.	Hasil dan Pembahasan
 
